@@ -49,8 +49,6 @@ In the second round of RetroPGF, badgeholders were given limited guidance on how
 
 On one hand, the badgeholders, responsible for evaluating the projects, encountered difficulties when they had to assess projects in fields that were outside of their areas of expertise or familiarity. Without sufficient resources or context-specific knowledge, their ability to thoroughly evaluate the effectiveness and potential impact of these projects was impaired. 
 
-On the other hand, and perhaps more critically, the nominees who proposed these projects faced top-down evaluations that might not have taken into account Key Performance Indicators (KPIs) significant to their on-the-ground operations. This issue stemmed from a potential disconnect between the evaluators' perspectives and the realities of hands-on fieldwork. 
-
 There are specific indicators and factors that are vitally important and unique to ground-level work, which might not be visible, known, or may even be dismissed as irrelevant from the standpoint of someone who hasn't been involved in such in-situ operations. Consequently, these evaluations might have overlooked some crucial aspects of the projects, thereby affecting the comprehensiveness and accuracy of the assessments.
 
 ### Inability to scale:
@@ -84,63 +82,11 @@ B) Identify which badgeholders have created more impact in supporting fellow bad
 C) Which metrics are most valuable in the allocation process (this can then be thought to projects applying for RetroPGF).
 D) Compare if badgeholders have voted in alignment with the values of the optimism collective.
 
-
-<table>
-    <th>Stage</th>
-    <th>Name</th>
-    <th>Description</th>
-    <tbody>
-        <tr>
-            <td>
-                1
-            </td>
-            <td>
-               Self-reported impact evaluation
-            </td>
-            <td>    
-               Nominees will create a self-reported impact evaluation based on the impact their projects have had on the Ethereum Ecosystem and their ripple or direct impact on the Optimism Ecosystem. 
-            </td>
-        </tr>
-        <tr>
-            <td>
-               2
-                </a>
-            </td>
-            <td>
-                Random, anonymous, peer evaluation
-            </td>
-            <td>    
-                Each project that has submitted a self-reported evaluation and has registered on the IEF platform will, at random, be assigned to evaluate 5 peer projects self-reported evaluations. Peer evaluations will be anonymous, meaning the evaluated projects will be unable to tell who evaluated them, which helps reduce collusion and retaliation. They will also be preserved as binary attestations within the UniRep protocol: meaning an evaluating project may only approve or dissaprove the self report issued by a peer. 
-            </td>
-        </tr>
-        <tr>
-            <td>
-                3
-            </td>
-            <td>
-Badgeholders evaluation of a random set of self-reported evaluations along the peer attestations to those reports.              </td>
-            <td>    
-              Optimism Badgeholders will receive a capped random set of projects to evaluate. By capping the number of projects to be evaluated, badgeholders do not need to spread themselves thin. Additionally, through the use of the Impact Evaluation Framework and the results of the peer evaluation, badgeholders will have an increased amount of information to base their decisions on. 
-            </td>
-           <tbody>
-</table>
-
-## 🛠 Process
-
-
-
 ## 📜 Next Steps
 
-1. Enable the use of POAPs as a data point to increase a projects reputation on the UniRep protocol. Having certain POAPs should contribute to giving more credibility to a projects evaluation of their peers. 
-2. Create user lists within the UniRep code so that projects are 1) able to evaluate peers in multiple categories AND have different reputation scores for each category, based on their qualifications in each of these categories. 
-3. Enable the carrying over of the reputation score from one epoch to the next. 
-4. Enable an increase in reputation per category by having participated in multiple peer evaluation rounds. 
+1. Build an MVP.
 
 ### Important
 
-
-Having anonymous peer review may prevent collusion and retaliation, but can also prevent the development of a healthy and nurturing community feedback loop that enhances projects work and improvement on previous iterations. 
-
-Therefore, I suggest running an A|B test in which a segment of evaluators are anonymous and another isn't to explore which group yields better results. 
-
+This is an iterative process, it is important to evaluate results and then improve based on them.
 
